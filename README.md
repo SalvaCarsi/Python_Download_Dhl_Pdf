@@ -9,7 +9,7 @@ Contents of python utilies:
 
 3- rename_files.py: utility to rename the downloaded files and include the .pdf extension.
 
-4- 20141106_SendungsnummernOriginal.csv: shipment numbers to download the pdf.
+4- ShipmentOrders.csv: shipment numbers to download the pdf.
 
 Instructions of use:
 
